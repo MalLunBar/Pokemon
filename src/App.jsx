@@ -1,5 +1,5 @@
 import pokemon from './data/pokemon.json'
-import { Card } from './components/Card'
+import Card from './components/Card'
 
 
 
